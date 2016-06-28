@@ -1,0 +1,14 @@
+layout_spectrum: 0.9316609750967473
+typography_spectrum: 0.7659399253316224
+color:
+  brandStrength: 0.9773773590568453
+  lightness: 0.21373285306617618
+  saturation: 0.8182481271214783
+  rhythmicContrast: 0.8774064315948635
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: forced breakfast
